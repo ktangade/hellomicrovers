@@ -1,2 +1,2 @@
-//This is the replica of main branch.
+This is the replica of main branch.
 
